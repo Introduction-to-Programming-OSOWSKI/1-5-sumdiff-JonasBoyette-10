@@ -1,1 +1,5 @@
-#WRITE YOUR CODE IN THIS FILE
+def sumDif(x, y,):
+
+    return x + y - x
+
+print(sumDif(10, 5,))
