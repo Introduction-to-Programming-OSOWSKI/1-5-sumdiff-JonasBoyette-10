@@ -1,5 +1,5 @@
-def sumDif(x, y):
+def sumDiff(x, y):
 
     return (x + y) - (x - y)
 
-print(sumDif(10, 5,))
+print(sumDiff(10, 5,))
